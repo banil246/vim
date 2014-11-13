@@ -1,0 +1,8 @@
+emmet-vim
+neobundle.vim
+neocomplete
+neosnippet-snippets
+neosnippet.vim
+unite.vim
+vim-autoclose
+vim-scala
